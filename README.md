@@ -71,18 +71,6 @@ Plataforma jurídica focada em monitoramento automatizado de processos judiciais
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ramalho-joao&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramalho-joao&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌎 Contato
 
 <p align="left">
